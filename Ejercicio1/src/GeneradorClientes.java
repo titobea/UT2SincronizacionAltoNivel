@@ -21,7 +21,7 @@ public class GeneradorClientes implements Runnable {
 		
 		// mientras no nos pasemos del tiempoMaximo 
 		while ((System.nanoTime() - tiempoInicial) < tiempoMaximo) {
-			// TODO: esperar y generar cliente según "clientesPorSegundo".  
+			// TODO: esperar y generar cliente según "clientesPorSegundo".
 		}
 		
 		// TODO: Imprimir "Cerrando supermercado, ya no entran más clientes."

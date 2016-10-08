@@ -17,6 +17,8 @@ public class DemoColaCarrefour {
 			// TODO: Creamos y arrancamos los cajeros en sus Threads
 		}
 		
+		// TODO: Imprimir cada 2segundos el tamaño de la cola
+		
 		// TODO: Esperamos a que se vayan los clientes y cajeros para cerrar el super
 		// y imprimimos "SUPERMERCADO CERRADO."
 		
